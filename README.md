@@ -20,6 +20,6 @@ I'm Ryan, currently high school passionate about becoming a full-stack developer
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1ntrr&show_icons=true&theme=one_dark_pro)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1ntrr&hide=stars,contribs&show_icons=true&theme=one_dark_pro)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1ntrr&layout=compact&theme=one_dark_pro)
 
