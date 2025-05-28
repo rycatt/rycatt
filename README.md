@@ -1,6 +1,6 @@
-## 👀 Hey! Nice to see you
+## 👀 Hi there!
 
-I'm Ryan, currently high school passionate about becoming a full-stack developer. I'm currently learning HTML, CSS, JavaScript, and React, and I love building projects to grow my skills. 
+I'm Ryan, currently high school passionate about becoming a full-stack developer. I'm currently learning React, and I love building projects to grow my skills. 
 
 
 ### 🧰 Languages & Tools
@@ -20,6 +20,7 @@ I'm Ryan, currently high school passionate about becoming a full-stack developer
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1ntrr&hide=stars,contribs&show_icons=true&theme=one_dark_pro)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1ntrr&layout=compact&theme=one_dark_pro)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1ntrr&hide=stars,contribs&show_icons=true&theme=react)
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=W1ntrr&theme=react)](https://git.io/streak-stats)
+<br/>
