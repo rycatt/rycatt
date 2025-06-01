@@ -20,7 +20,7 @@ I'm Ryan, currently high school passionate about becoming a full-stack developer
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1ntrr&hide=stars,contribs&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rycatt&hide=stars,contribs&show_icons=true&theme=react)
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=W1ntrr&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rycatt&theme=react)](https://git.io/streak-stats)
 <br/>
