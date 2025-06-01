@@ -1,7 +1,6 @@
-## 👀 Hi there!
+## 👋 Hi there!
 
-I'm Ryan, currently high school passionate about becoming a full-stack developer. I'm currently learning React, and I love building projects to grow my skills. 
-
+I’m Ryan, a high school student passionate about becoming a full-stack developer. I’m currently learning React and love building projects to grow my skills.
 
 ### 🧰 Languages & Tools
 
