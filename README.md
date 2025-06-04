@@ -16,7 +16,6 @@ Currently on my way to master web development through The Odin Project, with a f
 const ryan = {
   currentFocus: "React Development",
   learningPath: "The Odin Project",
-  dailyRoutine: ["Code", "Learn", "Build", "Repeat"],
   dreamJob: "Full-Stack Developer",
   superpower: "Turning bugs into features"
 };
