@@ -1,7 +1,7 @@
 # Hey There! 👋
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVjN3BzOWRvNmRtazNpNGptdnB5Y2xrcXh0ZTE1NTQ2bjM4d21nNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wU5GXcDhwLDO7bcKvP/giphy.gif" height="200" />
+  <img src="https://media3.giphy.com/media/wU5GXcDhwLDO7bcKvP/giphy.webp" height="200" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+in+Training;Building+the+Future+One+Component+at+a+Time;Currently+Mastering+React+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
@@ -50,7 +50,7 @@ const ryan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rycatt&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rycatt&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true&hide=contribs" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rycatt&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook" height="170" />
 </div>
 
