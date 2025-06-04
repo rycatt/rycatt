@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-**High School Student** | **Future Full-Stack Developer** | **Code Enthusiast**
+**High School Student** | **Future Full-Stack Developer**
 
 Currently on my way to master web development through The Odin Project, with a focus on React.
 
