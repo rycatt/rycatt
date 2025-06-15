@@ -2,24 +2,11 @@
 
 <div align="center">
   <img src="https://media3.giphy.com/media/wU5GXcDhwLDO7bcKvP/giphy.webp" height="200" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+in+Training;Building+the+Future+One+Component+at+a+Time;Currently+Mastering+React+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 **High School Student** | **Future Full-Stack Developer**
-
-Currently on my way to master web development through The Odin Project, with a focus on React.
-
-```javascript
-const ryan = {
-  currentFocus: "React Development",
-  learningPath: "The Odin Project",
-  dreamJob: "Full-Stack Developer",
-  superpower: "Turning bugs into features"
-};
-```
 
 - 🔭 **Currently Working On**: React projects and components through The Odin Project
 - 📚 **Learning**: React fundamentals, hooks, state management, and modern JavaScript
@@ -31,18 +18,10 @@ const ryan = {
 <div align="center">
 
 ### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" title="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React" />
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
 
 ### Tools & Others
-<img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="Git" title="Git" />
-<img src="https://cdn.simpleicons.org/github/181717" height="45" alt="GitHub" title="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" alt="Unity" title="Unity" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" title="C#" />
+<img src="https://skillicons.dev/icons?i=git,github,unity,cs&theme=dark" />
 
 </div>
 
