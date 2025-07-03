@@ -17,10 +17,10 @@ I’m a self-taught high school student passionate about exploring the world of 
 <p align=center>
   <div align=center>
     <a href="https://github.com/rycatt/github-readme-streak-stats">
-      <img align="left" width=410 src="https://streak-stats.demolab.com/?user=rycatt&theme=react&border=61dafb&hide_border=true" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rycatt&theme=react&border=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/rycatt/github-readme-stats">
-      <img align="right" width=410 src="https://github-readme-stats.vercel.app/api?username=rycatt&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rycatt&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 <div align="center">
