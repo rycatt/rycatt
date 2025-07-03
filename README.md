@@ -12,11 +12,17 @@ I’m a self-taught high school student passionate about exploring the world of 
   <img src="https://skillicons.dev/icons?i=git,github,figma,unity,cs&theme=dark" />
 </div>
 
-<h2 align="center"> Stats </h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rycatt&show_icons=true&theme=react&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rycatt&theme=react&hide_border=true"/>
-</div>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/rycatt/github-readme-streak-stats">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rycatt&theme=react&border=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/rycatt/github-readme-stats">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rycatt&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rycatt&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true" />
 </div>
