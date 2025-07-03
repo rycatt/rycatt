@@ -1,25 +1,22 @@
-### Hey There! 👋
-I'm a high school student exploring full-stack development with a passion for creating modern web and mobile applications. Currently focused on React for web development and React Native for mobile apps.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&width=435&size=30&lines=Hey+%F0%9F%91%8B;Welcome+to+my+profile" />
+</p>
+<p align="center">
+I’m a self-taught high school student passionate about exploring the world of software development and creating robust, innovative applications.</p>
 
-### Tech Stack
+<h2 align="center"> Tech Stack </h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,firebase,supabase,postgres&theme=dark" />
 </div>
 <div align="center" style="margin-top:10px;">
-  <img src="https://skillicons.dev/icons?i=git,github,unity,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,unity,cs&theme=dark" />
 </div>
 
-### GitHub Stats
+<h2 align="center"> Stats </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rycatt&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true&hide=contribs" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rycatt&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=jupyter%20notebook" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rycatt&show_icons=true&theme=react&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rycatt&theme=react&hide_border=true"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rycatt&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF" height="170" />
-</div>
-
-### Activity Overview
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rycatt&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true" />
 </div>
