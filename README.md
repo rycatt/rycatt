@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&width=435&size=30&lines=Hey+%F0%9F%91%8B;Welcome+to+my+profile" />
 </p>
 <p align="center">
-I’m a self-taught high school student passionate about exploring the world of software development and creating robust, innovative applications.</p>
+I’m a self-taught college student passionate about exploring the world of software development and creating robust, innovative applications.</p>
 
 <h2 align="center"> Tech Stack </h2>
 <div align="center">
