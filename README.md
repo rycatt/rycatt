@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&width=435&size=30&lines=Hey+%F0%9F%91%8B;Welcome+to+my+profile" alt="Typing intro" />
 </p>
 
+<h3 align="center">CS @ Rutgers</h3>
 <p align="center">
-  <b>CS @ Rutgers</b>
-  <br />
   HackRU Fall 2026 Best Freshman Hack · Agentic Engineering Fellow @ Rutgers Blueprint
 </p>
+
 <h2 align="center"> Tech Stack </h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css&theme=dark" />
