@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&width=435&size=30&lines=Hey+%F0%9F%91%8B;Welcome+to+my+profile" alt="Typing intro" />
 </p>
 
-<h3 align="center">CS @ Rutgers</h3>
+<h3 align="center">EE @ Rutgers</h3>
 <p align="center">
   HackRU Fall 2026 Best Freshman Hack · Agentic Engineering Fellow @ Rutgers Blueprint
 </p>
